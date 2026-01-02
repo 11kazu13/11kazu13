@@ -51,3 +51,6 @@ XSS / CSRFを意識した安全な公開まで対応。
 
 - X: https://x.com/qtenky6  
 - Qiita: https://qiita.com/qtenky
+---
+※ 学習の詳細なロードマップや進捗管理は Notion で整理しています。
+- https://whip-poinsettia-6ed.notion.site/2d4d61718793807f9224c1fbe445ceb4?source=copy_link
