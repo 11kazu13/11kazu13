@@ -17,6 +17,8 @@
 - Docker / Linux
 - OAuth認証
 - Vercel / Render（Deploy）
+- Java（基礎）
+- R（基礎）
 
 ## 🧩 Works
 
