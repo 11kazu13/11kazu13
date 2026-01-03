@@ -1,7 +1,7 @@
 # Kazu｜Web Engineer
 
 23歳｜慶應義塾大学 経済学部卒  
-未経験からWebエンジニアを目指し、学習と開発を継続しています。
+未経験からWebエンジニアを目指し、学習&開発中。
 
 このREADMEは、  
 「どこまで理解していて、何を実際に作ったのか」を  
@@ -17,8 +17,10 @@
 - Docker / Linux
 - OAuth認証
 - Vercel / Render（Deploy）
-- Java（基礎）
-- R（基礎）
+- テスティングフレームワーク（Jest）
+- CI
+- Java
+- R
 
 ## 🧩 Works
 
