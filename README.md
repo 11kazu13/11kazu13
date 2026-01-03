@@ -49,6 +49,22 @@ XSS / CSRFを意識した安全な公開まで対応。
 サーバログを追いながら挙動を確認し、Renderで公開。  
 サーバサイド処理とデバッグの流れを重点的に経験。
 
+### 静的サイト・ミニアプリ集（GitHub Pages）
+HTML / CSS / JavaScript を用いて、  
+**静的ページ＋簡単な動きのあるページを作成し、公開まで実施。**
+
+- 診断サイト  
+  https://11kazu13.github.io/assessment/assessment.html  
+  条件分岐・イベント処理・DOM操作を用いた簡易ロジック実装。
+
+- 簡易Webページ  
+  https://11kazu13.github.io/kazukiino.github.io/  
+  レイアウト・スタイル設計を中心に、静的ページ制作の基礎を整理。
+
+- 簡易Webゲーム  
+  https://11kazu13.github.io/chrome-dino-game/  
+  JavaScriptによるアニメーション制御・当たり判定などを実装。
+
 ## 🔗 Links
 
 - X: https://x.com/qtenky6  
