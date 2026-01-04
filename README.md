@@ -1,7 +1,8 @@
 ## 🧠 Skills / Tech
 
 - HTML / CSS / JavaScript
-- Node.js / Hono
+- サーバーサイドフレームワーク（Node.js / Hono）
+- クライアントサイドフレームワーク（webpack）
 - React / Next.js / TypeScript
 - PostgreSQL / Supabase / Prisma
 - Git / GitHub
