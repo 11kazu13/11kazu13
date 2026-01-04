@@ -10,6 +10,7 @@
 - Vercel / Render（Deploy）
 - テスティングフレームワーク（Jest）
 - CI
+- jQuery
 - Java
 - R
 
