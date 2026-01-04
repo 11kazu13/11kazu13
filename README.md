@@ -1,19 +1,20 @@
 ## 🧠 Skills / Tech
 
-- HTML / CSS / JavaScript
-- サーバーサイドフレームワーク（Node.js / Hono）
-- クライアントサイドフレームワーク（webpack）
-- React / Next.js / TypeScript
+- HTML / CSS / JavaScript / TypeScript
+- サーバーサイド（Node.js / Hono）
+- フロントエンド（React / Next.js）
+- フロントエンドビルドツール（webpack）
 - PostgreSQL / Supabase / Prisma
 - Git / GitHub
 - Docker / Linux
 - OAuth認証
 - Vercel / Render（Deploy）
-- テスティングフレームワーク（Jest）
-- CI
+- テスティングフレームワーク（Jest / JUnit）
+- CI（GitHub Actions）
 - jQuery
 - Java
 - R
+
 
 ## 🧩 Works
 
