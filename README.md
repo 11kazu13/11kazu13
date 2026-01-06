@@ -4,7 +4,7 @@
 - サーバーサイド（Node.js / Hono）
 - フロントエンド（React / Next.js）
 - フロントエンドビルドツール（webpack）
-- PostgreSQL / Supabase / Prisma
+- PostgreSQL / Supabase / Prisma / MYSQL
 - Git / GitHub
 - Docker / Linux
 - OAuth認証
