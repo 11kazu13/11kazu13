@@ -18,18 +18,12 @@
 
 ## 🧩 Works
 
-### LiveMate v2（公開）
+### LiveMate v2
 - URL: https://livemate.vercel.app/
 - Repo: https://github.com/11kazu13/livemate-ver2.0
 
 Next.js + TypeScript + Supabaseで構成したWebアプリ。  
 CRUDを中心に、フロント・バック・DB・認証・デプロイまで一通り実装。
-
-### LiveMate v1（Vanilla CRUD）
-- Repo: https://github.com/11kazu13/livemate-ver1.0
-
-HTML / CSS / JavaScript + JSON Serverで作成。  
-画面・イベント・通信・データの関係を、フレームワークなしで整理。
 
 ### 掲示板アプリ
 - https://one1kazu13-nn-chat.onrender.com
