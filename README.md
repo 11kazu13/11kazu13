@@ -1,10 +1,10 @@
-## 🧠 Skills / Tech
+## 🧠 Skills
 
 - HTML / CSS / JavaScript / TypeScript
 - サーバーサイド（Node.js / Hono）
 - フロントエンド（React / Next.js）
 - フロントエンドビルドツール（webpack）
-- PostgreSQL / Supabase / Prisma / MYSQL
+- PostgreSQL / MySQL / Supabase / Prisma
 - Git / GitHub
 - Docker / Linux
 - OAuth認証
