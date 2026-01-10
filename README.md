@@ -4,6 +4,7 @@
 - サーバーサイド（Node.js / Hono）
 - フロントエンド（React / Next.js）
 - フロントエンドビルドツール（webpack）
+- CSSフレームワーク（Bootstrap）
 - PostgreSQL / MySQL / Supabase / Prisma
 - Git / GitHub
 - Docker / Linux
