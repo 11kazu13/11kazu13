@@ -18,7 +18,7 @@
 
 ## 🧩 主な作品
 
-### ライブ動向掲示板
+### ライブ同行掲示板
 - URL: https://livemate.vercel.app/
 - Repo: https://github.com/11kazu13/livemate-ver2.0
 
