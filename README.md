@@ -18,19 +18,19 @@
 
 ## 🧩 主な作品
 
-### LiveMate v2
+### ライブ動向掲示板
 - URL: https://livemate.vercel.app/
 - Repo: https://github.com/11kazu13/livemate-ver2.0
 
 Next.js + TypeScript + Supabaseで構成したWebアプリ。  
-CRUDを中心に、フロント・バック・DB・認証・デプロイまで一通り実装。
+CRUDを中心に、フロント・バック・DB・デプロイまで一通り実装。
 
-### イベント調整くん
+### 打ち上げ調整くん
 - URL: https://one1kazu13-schedule-arranger.onrender.com  
 - Repo: https://github.com/11kazu13/schedule-arranger.git  
 
-GitHub OAuth認証を用いたイベント調整サービス。  
-イベントの作成・編集・削除、候補日程の作成、候補ごとの出欠登録（非同期更新）、コメント更新まで実装。  
+GitHub OAuth認証を用いた打ち上げ調整サービス。  
+打ち上げの作成・編集・削除、候補日程の作成、候補ごとの出欠登録（非同期更新）、コメント更新まで実装。  
 Prisma を用いた永続化に加え、バリデーション（Zod）や XSS / CSRF 等の基本的なセキュリティも考慮して設計・実装。
 
 ## 🔗 SNS
