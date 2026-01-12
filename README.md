@@ -27,10 +27,13 @@ Next.js + TypeScript + Supabaseで構成したWebアプリ。
 CRUDを中心に、フロント・バック・DB・認証・デプロイまで一通り実装。
 
 ### 掲示板アプリ
-- https://one1kazu13-nn-chat.onrender.com
+- ~~https://one1kazu13-nn-chat.onrender.com~~  
+  ※ Render の無料枠制限により現在は公開停止中
+- Repo: https://github.com/11kazu13/nn-chat.git
 
 HTTPサーバ、フォーム処理、テンプレート、認証、DB永続化を実装。  
-XSS / CSRFを意識した安全な公開まで対応。
+XSS / CSRF を意識したバリデーション・ミドルウェア設計まで含めて対応。  
+ローカルおよびリポジトリ上で実装内容・設計を確認可能。
 
 ### アンケートサービス
 - https://one1kazu13-meal-questionnaire.onrender.com
