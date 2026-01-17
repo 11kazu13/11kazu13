@@ -3,20 +3,28 @@
 - HTML / CSS / JavaScript / TypeScript
 - サーバーサイド（Node.js / Hono）
 - フロントエンド（React / Next.js）
-- フロントエンドビルドツール（webpack）
-- CSSフレームワーク（Bootstrap）
+- フロントエンドビルドツール（webpack / Vite）
+- CSSフレームワーク（Bootstrap / Tailwind CSS）
 - PostgreSQL / MySQL / Supabase / Prisma
 - Git / GitHub
 - Docker / Linux
 - OAuth認証
 - Vercel / Render（Deploy）
-- テスティングフレームワーク（Jest / JUnit）
+- テスティングフレームワーク（Jest / JUnit / Vitest）
 - CI（GitHub Actions）
 - jQuery
 - Java
 - R
 
 ## 🧩 主な作品
+
+### Driver LP Prototype
+- URL: https://driver-lp-prototype.vercel.app/
+- Repo: https://github.com/11kazu13/driver-lp-prototype
+
+**「CVRの向上」**をテーマに作成した、ドライバー求人サイトのモバイル向けLPプロトタイプ。  
+ユーザーの心理的ハードルを下げるフリクション削減、リアルタイムの求人数変動、入力補助機能などを実装。  
+React + TypeScript + Tailwind CSS を採用し、AIをコーディング補助として積極的に活用することで、設計からテスト実装まで**約3時間**で構築しました。
 
 ### ライブ同行掲示板
 - URL: https://livemate.vercel.app/
