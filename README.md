@@ -5,7 +5,7 @@
 - フロントエンド（React / Next.js）
 - フロントエンドビルドツール（webpack / Vite）
 - CSSフレームワーク（Bootstrap / Tailwind CSS）
-- PostgreSQL / MySQL / Supabase / Prisma
+- PostgreSQL / MySQL / Supabase / Firebase / Prisma
 - Git / GitHub
 - Docker / Linux
 - OAuth認証
